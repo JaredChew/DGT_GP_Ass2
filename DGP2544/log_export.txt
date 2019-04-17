@@ -1,0 +1,4 @@
+Initialising SDL
+SDL drivers initialised
+SDL window initialised
+SDL renderer initialised
